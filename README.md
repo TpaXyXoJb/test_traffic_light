@@ -16,7 +16,7 @@ README
 
 * `python manage.py loaddata users_data.json posts_data.json`
 
-### Запустить веб-сервер 
+### Запустить локальный веб-сервер 
 
 * `python manage.py runserver`
 
